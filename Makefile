@@ -1,7 +1,7 @@
 SOURCES=src/*.cpp
 PCH_SOURCE=src/pch.h
 CFLAGS=-std=c++20 -g -Wall
-OUTFILE=main
+OUTFILE=a.out
 
 .PHONY: all clean
 
